@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Secular+One&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Secular One', sans-serif;
+    font-size: 20px;
+   
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 80vh;
+    background-color: #2f4f4f;
+}
+
+ input {
+    bottom: 0;
+    font-size: 30px;
+}
+
+label {
+    top:0;
+    font-size: 20px;
+}
+
+.caixas {
+    margin-top: 5%;
+   
+}
+
+fieldset {
+    margin-top: 30%;
+    background-color: #daa520;
+    width: 100%;
+    height: 100%;
+    padding: 10%;
+    border-radius: 5%;
+}
+
+button {
+    margin-top: 10%;
+    padding: 10px;
+}
